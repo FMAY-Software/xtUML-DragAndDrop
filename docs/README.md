@@ -27,7 +27,11 @@ October 2020.
 
 Video demonstrating drag and drop:
 
-<a id="Drag and Drop"></a>[Drag and Drop](https://youtu.be/1Z1rxAr0sxc)
+<a id="Drag and Drop"></a>[Drag and Drop](https://youtu.be/Xd5AvVafGyk)
+
+## Engineering Notes
+
+<a id="Drag and Drop Implementation Note"></A>[Drag and Drop Implementation](https://github.com/FMAY-Software/bridgepoint/blob/73ea6c3a22a245d66408fb46070ca1130aab1fff/doc-bridgepoint/notes/fmay_Drag_and_Drop/DragAndDrop.int.adoc)
 
 ## Pledging
 
