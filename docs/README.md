@@ -27,7 +27,7 @@ October 2020.
 
 Video demonstrating drag and drop:
 
-<a id="Drag and Drop"></a>[Drag and Drop](https://youtu.be/1Z1rxAr0sxc)
+<a id="Drag and Drop"></a>[Drag and Drop](https://youtu.be/Xd5AvVafGyk)
 
 ## Engineering Notes
 
