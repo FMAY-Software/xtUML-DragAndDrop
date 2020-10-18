@@ -12,11 +12,11 @@ This project enables drag and drop support for model elements in the Bridgepoint
 
 R1.1 Enable drag and drop support in Bridgepoint Model Explorer   
 R1.1.1 Valid drop conditions  
-<a href="R1.1.2.1">R1.1.1.1 </a> When the element being dragged is over a sibling, enable drop if the element has a reflexive ordering association  
-<a href="R1.1.2.2">R1.1.1.2 </a> When the element being dragged is over a different container that has the same type as its parent, drop shall be enabled  
+R1.1.1.1 When the element being dragged is over a sibling, enable drop if the element has a reflexive ordering association  
+R1.1.1.2 When the element being dragged is over a different container that has the same type as its parent, drop shall be enabled  
 R1.1.2 Handling drop  
-<a href="R1.1.2.1">R1.1.2.1 </a> For the case of being dragged over a sibling the drop location shall be used to update the order of the element being dropped  
-<a href="R1.1.2.2">R1.1.2.2 </a> For the case of a different container as the drop location, a move shall be performed by default.  If the copy key modifier is active at the point of drop a copy/paste shall be performed.
+R1.1.2.1 For the case of being dragged over a sibling the drop location shall be used to update the order of the element being dropped  
+R1.1.2.2 For the case of a different container as the drop location, a move shall be performed by default.  If the copy key modifier is active at the point of drop a copy/paste shall be performed.
 
 
 ## Timeframe  
