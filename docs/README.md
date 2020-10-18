@@ -29,6 +29,10 @@ Video demonstrating drag and drop:
 
 <a id="Drag and Drop"></a>[Drag and Drop](https://youtu.be/1Z1rxAr0sxc)
 
+## Engineering Notes
+
+<a id="Drag and Drop Implementation Note"></A>(https://github.com/FMAY-Software/bridgepoint/blob/73ea6c3a22a245d66408fb46070ca1130aab1fff/doc-bridgepoint/notes/fmay_Drag_and_Drop/DragAndDrop.int.adoc)
+
 ## Pledging
 
 This project does not make use of the <a id="Pledge Model"></a>[Pledge Model](https://fmaysoftware.wordpress.com/pledging-model/).  Rather this is a direct contribution from FMAY.  
