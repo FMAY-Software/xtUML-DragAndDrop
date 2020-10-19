@@ -23,6 +23,10 @@ R1.1.2.2 For the case of a different container as the drop location, a move shal
 
 October 2020.    
 
+## Deliverables
+
+http://fmay-deliverables.s3-website.us-east-2.amazonaws.com
+
 ## Demonstrations
 
 Video demonstrating drag and drop:
