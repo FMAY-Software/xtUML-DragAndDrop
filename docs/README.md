@@ -25,7 +25,7 @@ October 2020.
 
 ## Deliverables
 
-<a id="Project Builds"></a>[Project Builds](http://fmay-software.s3-website.us-east-2.amazonaws.com)
+<a id="Project Builds"></a>[Project Builds](http://fmay-software.s3-website.us-east-2.amazonaws.com/projects)
 
 ## Demonstrations
 
