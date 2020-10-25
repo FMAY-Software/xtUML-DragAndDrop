@@ -1,0 +1,27 @@
+{
+  "project": "xtUML: Drag and Drop",
+  "description": "Allows element drag and drop in BridgePoint model explorer.",
+  "deliverables": {
+    "deliverable": [
+      {
+        "target": "OSX",
+        "url": "S3:/fmay/drops/FMAY-DragAndDrop/bridgepoint-editor/org.xtuml.bp.product-macosx.cocoa.x86_64.zip"
+      },
+      {
+        "target": "OSX Developer",
+        "url": "S3:/fmay/drops/FMAY-DragAndDrop/bridgepoint-dev/org.xtuml.bp-dev.product-macosx.cocoa.x86_64.zip"
+      },
+      {
+        "target": "Linux",
+        "url": "S3:/fmay/drops/FMAY-DragAndDrop/bridgepoint-editor/org.xtuml.bp.product-linux.gtk.x86_64.zip"
+      },
+      {
+        "target": "Linux Developer",
+        "url": "S3:/fmay/drops/FMAY-DragAndDrop/bridgepoint-dev/org.xtuml.bp-dev.product-linux.gtk.x86_64.zip"
+      }
+    ]
+  },
+  "demonstration": {
+    "url": "https://youtu.be/Xd5AvVafGyk"
+  }
+}
