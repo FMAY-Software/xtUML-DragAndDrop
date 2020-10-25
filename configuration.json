@@ -1,5 +1,5 @@
 {
-  "project": "xtUML: Drag and Drop",
+  "name": "xtUML: Drag and Drop",
   "description": "Allows element drag and drop in BridgePoint model explorer.",
   "deliverables": [
     {
