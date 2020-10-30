@@ -1,4 +1,10 @@
 {
+  "owner": {
+    "first_name":"Travis",
+    "last_name":"London",
+    "email":"travis.london@fmay.net",
+    "phone": "5203730727"
+  },
   "name": "xtUML: Drag and Drop",
   "description": "Allows element drag and drop in BridgePoint model explorer.",
   "deliverables": [
