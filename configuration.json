@@ -29,8 +29,16 @@
 		"url": "https://youtu.be/Xd5AvVafGyk"
 	},
 	"pledge_target": "1200",
-	"pledged": "0",
+	"pledged": "1200",
 	"repository_name": "xtUML-DragAndDrop",
 	"home": "https://github.com/FMAY-Software/xtUML-DragAndDrop",
-	"status": "Complete"
+	"status": "Complete",
+	"pledgors": [
+		{
+			"id": "Myself",
+			"contact": "www.fmay.net",
+			"company": "FMAY Software",
+			"pledged": "1200"
+		}
+	]
 }
